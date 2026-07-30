@@ -1,2 +1,2 @@
-# MIS311-Assignment
+# MIS311
 Business Analytics Portfolio for MIS311 Assignment 
