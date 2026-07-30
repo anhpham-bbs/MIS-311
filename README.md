@@ -36,15 +36,15 @@ This project focuses on analyzing a shoe price dataset to identify pricing patte
 
 ## 📷 Dashboard Preview
 
-### Dashboard 1
+### Figure 1
 
 ![Dashboard 1](Figure%201.jpg)
 
-### Dashboard 2
+### Figure 2
 
 ![Dashboard 2](Figure%202.jpg)
 
-### Dashboard 3
+### Figure 3
 
 ![Dashboard 3](Figure%203.jpg)
 
